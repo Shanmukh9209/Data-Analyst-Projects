@@ -1,1 +1,22 @@
+Scenario: As a regional manager for a chain of car dealerships we need to built out a dashboard to allow you to understand the sales and services department.
+
+Tasks:
+
+1.Create 2 dashboards. One dashboard using the tabbed template that has 4 small rectangles at the top and a large rectangle below and rename it to Sales.
+2.Another Dashboard using the 2 x 2  rectangle areas tabbed template and rename it to Service.
+
+Capture the following KPI metrics as visualisations:
+
+1.On sales dashboard, capture the following KPI metrics-
+	•	In pane1, capture Profit (formatted to 1 decimal place in million of US dollars)
+	•	In pane2, capture Quantity sold
+	•	In pane3, capture Quantity sold by model as bar chart
+	•	In pane4, capture Average quantity sold
+	•	In pane5, display ‘Profit’ by ‘Dealer ID’ as a column chart, sorted in ascending order.
+
+2.On service dashboard, capture the following KPI metrics as visualisation - 
+	•	In pane1, capture the number of recalls per model of car as column chart
+	•	In pane2, capture the customer sentiment by comparing positive, neutral and negative reviews ( as a treemap).
+	•	In pane3, capture the quantity of cars sold per month compared to the profit (as a line and column chart)
+	•	In pane4, capture the number of recalls by model and affected system (as a heat map) .This will understand if there are any outliers for a given model or a specific system.
 
